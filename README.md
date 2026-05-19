@@ -1,15 +1,39 @@
-# Welcome-to-Rohan-s-GitHub-Profile-
-GitHub Profile!
-About Me
-Rajat Verma | Software Test Engineer | 8+ years EXP. | C-DAC | India | Resume
-I’m looking to collaborate on Test Automation Frameworks Development (Web, Mobile and API).
-🔭 Projects - Test Automation Frameworks
-Java - Selenium Appium Rest Assured
+# Welcome to Rohan's GitHub Profile 👋
 
-JavaScript - Cypress Playwright
+## 🚀 About Me
+**Rohan Kumar** | **QA Automation Engineer** | **India**
+Passionate Software Test Engineer with experience in building scalable and maintainable Test Automation Frameworks for Web, Mobile, and API Testing.
 
-Python - Requests
+## 💡 Skills
+- Selenium WebDriver
+- Rest Assured
+- Java, JavaScript
+- Jenkins, Docker & CI/CD
+- TestNG, Maven & Git
 
-📄 Documents - Technical Topics
-Google Drive
-GitHub Repository
+## 🤝 Open to Collaborate On
+- Automation Framework Development
+- API Testing Solutions
+- Enterprise QA Projects
+- CI/CD Automation
+
+## 🔭 Automation Projects
+
+### ☕ Java Automation Stack
+- Selenium WebDriver
+- Appium
+- Rest Assured
+- TestNG
+- Maven
+
+## 📄 Technical Resources
+- Google Drive
+- GitHub Repositories
+- Automation Notes & Frameworks
+
+## 📫 Connect With Me
+- GitHub 
+- LinkedIn
+- Resume
+
+⭐ **"Quality is never an accident; it is always the result of intelligent effort."**
