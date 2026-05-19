@@ -33,8 +33,7 @@ Passionate Software Test Engineer with experience in building scalable and maint
 - Automation Notes & Frameworks
 
 ## 📫 Connect With Me
-- GitHub 
-- LinkedIn
-- Resume
+- GitHub --https://github.com/AutomationKumar
+- LinkedIn --http://linkedin.com/in/rohan-kumar-7616891b9
 
 ⭐ **"Quality is never an accident; it is always the result of intelligent effort."**
