@@ -1,3 +1,13 @@
+# <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=35&center=true&vCenter=true&width=700&lines=Welcome+to+Rohan's+GitHub+Profile+👋;QA+Automation+Engineer;Selenium+%7C+Java+%7C+API+Testing;CI%2FCD+%7C+Docker+%7C+Automation+Frameworks" />
+
+## 🚀 About Me
+
+🧑‍💻 **Rohan Kumar** | **QA Automation Engineer** | **India**  
+
+💡 Passionate Software Test Engineer experienced in building scalable and maintainable Test Automation Frameworks for **Web, Mobile & API Testing**.
+
+---
+
 ## 💡 Skills
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
